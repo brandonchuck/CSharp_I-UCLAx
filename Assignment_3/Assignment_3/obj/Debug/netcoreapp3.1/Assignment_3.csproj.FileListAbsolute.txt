@@ -1,0 +1,12 @@
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/bin/Debug/netcoreapp3.1/Assignment_3.deps.json
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/bin/Debug/netcoreapp3.1/Assignment_3.runtimeconfig.json
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/bin/Debug/netcoreapp3.1/Assignment_3.runtimeconfig.dev.json
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/bin/Debug/netcoreapp3.1/Assignment_3.dll
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/bin/Debug/netcoreapp3.1/Assignment_3.pdb
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.csprojAssemblyReference.cache
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.AssemblyInfoInputs.cache
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.AssemblyInfo.cs
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.csproj.CoreCompileInputs.cache
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.dll
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.pdb
+/Users/brandonchuck/Desktop/UCLAextension/Visual C# I/Assignment_3/Assignment_3/obj/Debug/netcoreapp3.1/Assignment_3.genruntimeconfig.cache
